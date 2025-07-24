@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="120" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="matrix code dna" />
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dreycey/" target="_blank">

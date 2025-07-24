@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://www.linkedin.com/in/dreycey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" />
@@ -12,7 +11,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=007AFF&center=true&vCenter=true&multiline=true&width=520&height=70&lines=Biochemist+turned+SWE.;Open+source,+systems,+and+genomics.;Let's hack together!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=007AFF&center=true&vCenter=true&multiline=true&width=520&height=70&lines=Biochemist+turned+SWE.;Open+source,+systems,+and+genomics.;Let's+hack+together!" 
     alt="Typing SVG" 
   />
 </div>
@@ -21,6 +20,6 @@
 
 ### 🧬 About Me
 
-- 👨‍💻 Software Engineer @ Microsoft — cloud infra + ML systems
-- 🧪 Background in bioinformatics, synthetic biology, and genomics
-- 🔓 Interested in FOSS and ML Systems
+- 👨‍💻 Software Engineer @ Microsoft — cloud infra + ML systems  
+- 🧪 Background in bioinformatics, synthetic biology, and genomics  
+- 🔓 Interested in FOSS and ML systems  

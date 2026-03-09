@@ -2,12 +2,12 @@
   <h1>Hi, I'm Dreycey Albin</h1>
   
   <p>
-    <strong>ML Software Engineer @ Microsoft Azure</strong><br>
-    Specializing in production ML systems, distributed inference, and cloud-scale evaluation.
+    <strong>Machine Learning Engineer @ Microsoft Azure</strong><br>
+    Specializing in modeling, distributed inference, and production ML systems
   </p>
 
   <p>
-    <a href="https://dreycey.github.io"><img src="https://img.shields.io/badge/Portfolio-dreycey.github.io-2c4964?style=for-the-badge&logo=github" height="28"></a>
+    <a href="https://dreyceyalbin.com"><img src="https://img.shields.io/badge/Portfolio-dreycey.github.io-2c4964?style=for-the-badge&logo=github" height="28"></a>
     <a href="https://www.linkedin.com/in/dreycey/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" height="28"></a>
     <a href="https://scholar.google.com/citations?user=JaCaY5AAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="28"></a>
   </p>
@@ -16,7 +16,7 @@
 ---
 
 
-### 🚀 About Me
+### About Me
 
 I am a Computer Science PhD and ML Engineer bridging the gap between research and reliable production systems. My work focuses on:
 *   **ML Infrastructure:** Building capacity decisioning systems and distributed inference pipelines.

@@ -3,7 +3,7 @@
   
   <p>
     <strong>Machine Learning Engineer @ Microsoft Azure</strong><br>
-    Specializing in modeling, distributed inference, and production ML systems
+    Specializing in modeling, distributed systems, and production ML systems. Open source work spans machine learning and computational biology.
   </p>
 
   <p>
